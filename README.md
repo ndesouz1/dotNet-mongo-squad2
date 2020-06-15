@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# dotNet-mongo-squad2
+continuation of the project dotNet-mongo-squad2 from Digital Innovation One
+
+
+>>>>>>> 7cf34ae19aa4017a0419a48b7ac4e57ce4f295a0
 <h1 align="center">Uma aplicação completa para diário de Classe Conectada com a Api online</h1>
 
 Esse repo é um projeto incrível da DioX Squad
@@ -76,4 +83,8 @@ porta -> [localhost:4200](http://localhost:4200/)
 
 <p>[Alex Rossi](https://www.linkedin.com/in/4lex/)</p>
 <p>[Tati Bleck](https://www.linkedin.com/in/tatianebleck/)</p>
+<<<<<<< HEAD
 <p>[Victor Silva](https://www.linkedin.com/in/victor-da-silva-a75951138/)</p>
+=======
+<p>[Victor Silva](https://www.linkedin.com/in/victor-da-silva-a75951138/)</p>
+>>>>>>> 7cf34ae19aa4017a0419a48b7ac4e57ce4f295a0
