@@ -79,12 +79,4 @@ porta -> [localhost:4200](http://localhost:4200/)
 ![](https://imgur.com/PqCflYQ.jpg)
 ![](https://imgur.com/oZRwu1T.jpg)
 
-## linkedIn dos participantes do projeto em ordem alfabética
 
-<p>[Alex Rossi](https://www.linkedin.com/in/4lex/)</p>
-<p>[Tati Bleck](https://www.linkedin.com/in/tatianebleck/)</p>
-<<<<<<< HEAD
-<p>[Victor Silva](https://www.linkedin.com/in/victor-da-silva-a75951138/)</p>
-=======
-<p>[Victor Silva](https://www.linkedin.com/in/victor-da-silva-a75951138/)</p>
->>>>>>> 7cf34ae19aa4017a0419a48b7ac4e57ce4f295a0
